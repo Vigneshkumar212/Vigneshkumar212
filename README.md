@@ -10,9 +10,20 @@
 ###  A bit about me
 
 -  CS student from **India**, self-taught
--  Building **Lectral** — a learning management system (Private)
--  Poking at **Agentic-Persona** — a local AI agent framework for simulating feedback
+-  Building **Lectral** a learning management system (Private)
+-  Poking at **Agentic-Persona** a local AI agent framework for simulating feedback
 -  *"Build first. Optimize later."*
+
+
+### 📌 A few things I've built
+
+- 🔐 [clogstenFileEncrypter](https://github.com/Vigneshkumar212/clogstenFileEncrypter) AES-256 file encryption tool
+- 🤖 [Agentic-Persona](https://github.com/Vigneshkumar212/Agentic-Persona) local AI agent framework for idea research
+- 🎬 [AiMovieRecommendation](https://github.com/Vigneshkumar212/AiMovieRecommendation) ML-based movie recommender
+- 🖥️ [LANServer](https://github.com/Vigneshkumar212/LANServer) self-hosted LAN file sharing with video compression
+- 🪟 [Acrylic-Window](https://github.com/Vigneshkumar212/Acrylic-Window) Electron.js acrylic-effect workaround (obsolete)
+
+<div align="center">
 
 <br/>
 
@@ -27,9 +38,6 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-###  Also using
-
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -42,20 +50,6 @@
 ![DSA](https://img.shields.io/badge/DSA-8b5cf6?style=for-the-badge)
 ![System Design](https://img.shields.io/badge/System%20Design-8b5cf6?style=for-the-badge)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-
-<br/>
-
-### 📌 A few things I've built
-
-- 🔐 [clogstenFileEncrypter](https://github.com/Vigneshkumar212/clogstenFileEncrypter) — AES-256 file encryption tool
-- 🤖 [Agentic-Persona](https://github.com/Vigneshkumar212/Agentic-Persona) — local AI agent framework for idea research
-- 🎬 [AiMovieRecommendation](https://github.com/Vigneshkumar212/AiMovieRecommendation) — ML-based movie recommender
-- 🖥️ [LANServer](https://github.com/Vigneshkumar212/LANServer) — self-hosted LAN file sharing with video compression
-- 🪟 [Acrylic-Window](https://github.com/Vigneshkumar212/Acrylic-Window) — Electron.js acrylic-effect workaround (obsolete)
-
-<br/>
-
-<div align="center">
 
 ### 🔥 Activity
 
