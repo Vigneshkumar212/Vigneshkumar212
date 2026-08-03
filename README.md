@@ -51,8 +51,6 @@
 ![System Design](https://img.shields.io/badge/System%20Design-8b5cf6?style=for-the-badge)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
-### 🔥 Activity
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vigneshkumar212&theme=tokyonight&hide_border=true" />
 
 </div>
