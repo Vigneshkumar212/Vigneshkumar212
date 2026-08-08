@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:8b5cf6&height=180&section=header&text=Hi,%20I'm%20Vignesh&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Self-taught%20coder,%20still%20figuring%20a%20lot%20of%20it%20out&descAlignY=55&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:8b5cf6&height=180&section=header&text=Hi%20there,%20I'm%20Vigneshkumar&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=27&desc=Mess%20around%20till%20you%20find%20out&descAlignY=40&descAlign=50&descSize=16" width="100%"/>
 
 <a href="https://twitter.com/Vigneshkumar2k6"><img src="https://img.shields.io/badge/Twitter-@Vigneshkumar2k6-1DA1F2?style=for-the-badge&logo=x&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/vigneshkumar2k6/"><img src="https://img.shields.io/badge/LinkedIn-vigneshkumar2k6-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
