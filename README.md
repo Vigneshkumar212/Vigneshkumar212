@@ -17,11 +17,11 @@
 
 ### A few things I've built
 
+-  [Snappy](https://github.com/Vigneshkumar212/Snappy) A Smarter Corner of your desktop
 -  [clogstenFileEncrypter](https://github.com/Vigneshkumar212/clogstenFileEncrypter) AES-256 file encryption tool
 -  [Agentic-Persona](https://github.com/Vigneshkumar212/Agentic-Persona) local AI agent framework for idea research
 -  [AiMovieRecommendation](https://github.com/Vigneshkumar212/AiMovieRecommendation) ML-based movie recommender
 -  [LANServer](https://github.com/Vigneshkumar212/LANServer) self-hosted LAN file sharing with video compression
--  [Acrylic-Window](https://github.com/Vigneshkumar212/Acrylic-Window) Electron.js acrylic-effect workaround (obsolete)
 
 <div align="center">
 
